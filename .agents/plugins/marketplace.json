@@ -1,0 +1,12 @@
+{
+  "name": "sekai-plugin",
+  "interface": { "displayName": "Sekai" },
+  "plugins": [
+    {
+      "name": "sekai",
+      "source": { "source": "local", "path": "./" },
+      "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+      "category": "Developer Tools"
+    }
+  ]
+}

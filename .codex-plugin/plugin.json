@@ -1,0 +1,22 @@
+{
+  "name": "sekai",
+  "version": "0.1.0",
+  "description": "Build a playable game with your coding agent and publish it on Sekai in one step: search Sekai's asset library, upload your HTML game as a draft, and publish it to sekai.ai.",
+  "author": { "name": "Sekai" },
+  "homepage": "https://mcp.sekai.ai",
+  "license": "MIT",
+  "interface": {
+    "displayName": "Sekai",
+    "shortDescription": "Build and publish AI games",
+    "developerName": "Sekai",
+    "category": "Developer Tools",
+    "capabilities": ["Read", "Write"],
+    "defaultPrompt": ["Package my HTML game for Sekai and upload it as a private draft"],
+    "websiteURL": "https://sekai.ai",
+    "supportURL": "https://sekai.ai/support",
+    "privacyPolicyURL": "https://sekai.ai/privacy",
+    "termsOfServiceURL": "https://sekai.ai/terms",
+    "logo": "./assets/logo.png",
+    "composerIcon": "./assets/logo.png"
+  }
+}

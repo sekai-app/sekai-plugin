@@ -1,0 +1,15 @@
+{
+  "name": "sekai-plugin",
+  "owner": {
+    "name": "Sekai",
+    "url": "https://sekai.ai"
+  },
+  "plugins": [
+    {
+      "name": "sekai",
+      "source": "./",
+      "description": "Build and publish AI games on Sekai from your coding agent."
+    }
+  ],
+  "description": "Sekai's official plugin: build and publish AI games on sekai.ai from your coding agent."
+}

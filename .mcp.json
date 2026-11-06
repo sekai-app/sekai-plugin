@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "sekai": {
+      "type": "http",
+      "url": "https://mcp.sekai.ai/mcp"
+    }
+  }
+}
