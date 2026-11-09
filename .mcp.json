@@ -2,7 +2,7 @@
   "mcpServers": {
     "sekai": {
       "type": "http",
-      "url": "https://mcp.sekai.ai/mcp"
+      "url": "https://mcp.sekai.ai/mcp/directory"
     }
   }
 }

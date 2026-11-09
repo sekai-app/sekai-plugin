@@ -2,7 +2,7 @@
   "name": "sekai",
   "displayName": "Sekai",
   "description": "Build a playable game with your coding agent and publish it on Sekai in one step: search Sekai's asset library, upload your HTML game as a draft, and publish it to sekai.ai.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": { "name": "Sekai", "url": "https://sekai.ai" },
   "homepage": "https://mcp.sekai.ai",
   "repository": "https://github.com/sekai-app/sekai-plugin",
